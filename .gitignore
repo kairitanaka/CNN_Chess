@@ -1,0 +1,6 @@
+magnus.pgn
+*.pt
+*.pth
+data_chunks/
+__pycache__/
+.DS_Store
